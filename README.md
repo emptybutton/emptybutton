@@ -5,7 +5,8 @@
 - 👀 You can contact me via [telegram](https://t.me/nicetomeetyoublyat)
 
 ### ⭐ My github statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=TheArtur128&count_private=true&theme=default&show_icons=true) 
+![github stats](https://github-readme-stats.vercel.app/api?username=TheArtur128&count_private=true&theme=default&show_icons=true)
 
-### 📒 My Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArtur128)
+
+
+
