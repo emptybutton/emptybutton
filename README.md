@@ -5,8 +5,6 @@
 - 👀 You can contact me via [telegram](https://t.me/submitbutton)
 
 ### ⭐ My github statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=TheArtur128&count_private=true&theme=default&show_icons=true)
-
-
+![github stats](https://github-readme-stats.vercel.app/api?username=TheArtur128&hide_border=true&show_icons=true&hide_title=true&title_color=0055ff&icon_color=0055ff)
 
 
