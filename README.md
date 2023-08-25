@@ -5,4 +5,4 @@
 - 💬 You can contact me via [telegram](https://t.me/submitbutton)
 
 ### ⭐ My github stats
-![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheArtur128&theme=nord_dark)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheArtur128&theme=blueberry)
