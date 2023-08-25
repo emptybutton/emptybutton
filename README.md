@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Arthur
-- 🐱‍👤 I'm learning Python, Go, but also Javascript
+## 👋 Hi, I'm Arthur
+- 🐱‍👤 I'm learning Python, Go and JavaScript
 - ⏳ I'm planning to become a backend developer
-- 🌏 I live in the Altai Crai in Russia
+- 🌏 I live in Altai Krai in Russia
 - 💬 You can contact me via [telegram](https://t.me/submitbutton)
 
-### ⭐ My github statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=TheArtur128&hide_border=true&show_icons=true&hide_title=true)
+### ⭐ My github stats
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheArtur128&theme=nord_dark)
