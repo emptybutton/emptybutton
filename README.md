@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Arthur
-- 🐱‍👤 I'm learning Python, Go, JavaScript and C++
+- 🐱‍👤 I'm learning `Python`, `Go` and `JavaScript` with `TypeScript`
 - ⏳ I'm planning to become a backend developer
 - 🌏 I live in Altai Krai in Russia
 - 💬 You can contact me via [telegram](https://t.me/submitbutton)
