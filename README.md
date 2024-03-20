@@ -1,5 +1,5 @@
 ## 👋 Hi ~~multifruit~~!
-- 🐱‍🚀 I'm studying backend development
+- 🐱‍🚀 I'm learning backend development
 - 🌏 I live in Altai Krai in Russia
 - 💬 You can contact me via [telegram](https://t.me/submitbutton)
 
