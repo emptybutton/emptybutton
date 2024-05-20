@@ -19,5 +19,5 @@
 </a>
 
 ### ⭐ My github reports
-![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheArtur128&theme=transparent)
-![github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheArtur128&theme=transparent)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emptybutton&theme=transparent)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emptybutton&theme=transparent)
